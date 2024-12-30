@@ -2,6 +2,7 @@
 Python을 이용한 Machine Learning 및 Deep Learning 학습용
 
 시나리오
+
 MBC 상점에서 앱마켓을 운영한다. AI를 활용하는 기법 학습
 
 1. 앱마켓에서 살아있는 생선을 팔기 시작함.
