@@ -18,3 +18,7 @@ Python을 이용한 Machine Learning 및 Deep Learning 학습용
 
 main.py 실행
 Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
+
+![image](https://github.com/user-attachments/assets/cbafc721-f6f9-4896-87c6-f30920d9e80b)
+
+![Uploading image.png…]()
