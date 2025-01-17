@@ -21,4 +21,5 @@ Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --port 8001 (위치
 
 ![image](https://github.com/user-attachments/assets/cbafc721-f6f9-4896-87c6-f30920d9e80b)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/199264fc-7bb4-4d06-8345-ac4c66f368a3)
+
